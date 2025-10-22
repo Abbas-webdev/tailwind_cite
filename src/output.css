@@ -659,6 +659,22 @@ video {
   width: 100%;
 }
 
+.w-\[00px\] {
+  width: 00px;
+}
+
+.w-\[200px\] {
+  width: 200px;
+}
+
+.w-\[1500px\] {
+  width: 1500px;
+}
+
+.w-\[150px\] {
+  width: 150px;
+}
+
 .flex-col {
   flex-direction: column;
 }
@@ -805,6 +821,14 @@ video {
   padding: 3rem;
 }
 
+.p-5 {
+  padding: 1.25rem;
+}
+
+.p-3 {
+  padding: 0.75rem;
+}
+
 .px-8 {
   padding-left: 2rem;
   padding-right: 2rem;
@@ -853,6 +877,11 @@ video {
 
 .text-lg {
   font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+
+.text-xl {
+  font-size: 1.25rem;
   line-height: 1.75rem;
 }
 
